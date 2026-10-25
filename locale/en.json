@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Total Time",
+    "description": "Shows the total elapsed time of every completed turn at the left of the composer footer."
+  }
+}
